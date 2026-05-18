@@ -21,4 +21,4 @@ e-plantShopping is a shopping cart application for Paradise Nursery, an online p
 ## How to Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/e-plantShopping.git
+   git clone https://github.com/Lethabo008/e-plantShopping.git
